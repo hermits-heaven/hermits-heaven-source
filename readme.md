@@ -13,7 +13,7 @@ everything you see on this site is obviously fake.
     3.2) Run `pip install -r requirements.txt`  
     3.3) Wait for packages to install, check for any errors  
     3.4) Run `python build.py`. Check for any errors, if there is no output then everything is OK  
-    3.5) Run `cd deploy`  
+    3.5) Run `mkdir deploy && cd deploy`  
     3.6) Run `python -m http.server`.  
     3.7) Open in your browser http://localhost:8000/  
     3.8) Observe the results  
