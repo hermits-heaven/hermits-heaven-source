@@ -19,3 +19,5 @@ if __name__ == "__main__":
     build_file('index.html')
     build_file('bases/index.html')
     build_file('bases/lake_house/index.html')
+    build_file('bases/forest_shelter/index.html')
+    build_file('bases/mountain_foot_house/index.html')
