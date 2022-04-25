@@ -22,3 +22,4 @@ if __name__ == "__main__":
     build_file('bases/lake-house/index.html')
     build_file('bases/forest-shelter/index.html')
     build_file('bases/mountain-foot-house/index.html')
+    build_file('suggestions/index.html')
