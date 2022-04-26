@@ -34,3 +34,4 @@ if __name__ == "__main__":
     build_file('residents/rules/index.html')
     build_file('residents/safety/index.html')
     build_file('residents/help/index.html')
+    build_file('about/index.html')
