@@ -1,0 +1,26 @@
+{% extends "base.html" %}
+{% block head %}
+<title>
+    Hermit's Heaven - Лесные базы
+</title>
+{% endblock %}
+{% block content %} 
+<h3>Лесные базы</h3>
+<br>
+
+<div class="tilegrid">
+    <div class="tilegrid-item">
+        <div class="tilegrid-item-cover wooden-frame-thin" style="background-image: url('/static/img/lake-house.jpg');"></div>
+        <div class="tilegrid-item-desc wooden-frame-thin">
+            <a class="submenu-item link-like" href="/bases/lake-house">Домик у озера</a>
+        </div>
+    </div>
+    <div class="tilegrid-item">
+        <div class="tilegrid-item-cover wooden-frame-thin" style="background-image: url('/static/img/flat.jpg');"></div>
+        <div class="tilegrid-item-desc wooden-frame-thin">
+            <a class="submenu-item link-like" href="/bases/flat">Тихая квартира</a>
+        </div>
+    </div>
+    
+</div>
+{% endblock %}
