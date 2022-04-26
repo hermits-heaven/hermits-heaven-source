@@ -30,6 +30,7 @@ if __name__ == "__main__":
     build_file('bases/watchtower/index.html')
     build_file('bases/mountain-house/index.html')
     build_file('suggestions/index.html')
+    build_file('residents/index.html')
     build_file('residents/rules/index.html')
     build_file('residents/safety/index.html')
     build_file('residents/help/index.html')
